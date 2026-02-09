@@ -1,0 +1,11 @@
+npm i -g typescript
+cmd me install krne k liye
+
+npx tsc --init
+initiallise krne k liye typescript ka project
+
+npx tsc -b 
+build krta h typescript file ko js me
+
+rootDir : location of typescript file // src folder k andr 
+outDir : location of build javascript file // dist folder k andr

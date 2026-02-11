@@ -12,3 +12,4 @@ res2?.toString();
 //res2 =="a";
 //res2.toUpperCase(); it will give error
 //as union and intersaction, info about type lost -> union doesnot preserve type
+//generic me type preserve rhta h

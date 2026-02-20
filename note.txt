@@ -1,0 +1,10 @@
+key prop 
+
+Feature
+
+2. virtual dom (document obj model)
+lightweight copy of actual dom 
+
+diffing algorithm btata h  number of changes compare krke current virtual dom and prev virtual dom and phir dom usko change krdeta h
+ 
+react manages 2 virtual dom previous and current dom 

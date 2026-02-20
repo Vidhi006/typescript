@@ -42,6 +42,14 @@ function App(){
   return(
     <div>
       <h1>Array</h1>
+      {users.map((user)=>{
+        return (
+          <div>
+            <p>name:{user.name}</p>
+            <p>age:{user.age}</p>
+          </div>
+        )
+      })}
       <button onClick={()=>{addUser("vivek", 20)}}>add user</button>
     </div>
   )
